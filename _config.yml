@@ -23,8 +23,8 @@ email: buspark@bu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Boston University Spark! Technical Information Website
 baseurl: "." # the subpath of your site, e.g. /blog
-url: "https://bu-spark.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  bu-spark
+url: "https://ayang903.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  ayang903
 logo: "/assets/spark-logo-round.png"
 
 # Build settings
@@ -38,13 +38,13 @@ search_enabled: true
 heading_anchors: true
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/BU-Spark/bu-spark.github.io" # the github URL for your repo
+gh_edit_repository: "https://github.com/ayang903/bu-spark.github.io" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 
 # Aux links for the upper right navigation
 aux_links:
   "BU Spark Tech Resources on GitHub":
-    - "//github.com/BU-Spark/bu-spark.github.io"
+    - "//github.com/ayang903/bu-spark.github.io"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
