@@ -28,7 +28,7 @@ github_username:  ayang903
 logo: "/assets/spark-logo-round.png"
 
 # Build settings
-theme: just-the-docs
+theme: minima
 plugins:
   - jekyll-feed
   - just-the-docs
