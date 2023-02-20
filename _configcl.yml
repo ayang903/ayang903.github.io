@@ -31,10 +31,10 @@ baseurl: "." # the subpath of your site, e.g. /blog
 ### and any other subsequent redirects will lead to the actual website.
 
 ${{ if eq(env.CF_PAGES_BRANCH), 'main' }}:
-  url: "https://bu-spark.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  url: "https://ayang903.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 ###
 
-github_username:  bu-spark
+github_username:  ayang903
 logo: "/assets/spark-logo-round.png"
 
 # Build settings
@@ -48,7 +48,7 @@ search_enabled: true
 heading_anchors: true
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/BU-Spark/bu-spark.github.io" # the github URL for your repo
+gh_edit_repository: "https://github.com/ayang903/bu-spark.github.io" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 
 # Aux links for the upper right navigation
