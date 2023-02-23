@@ -2804,3 +2804,5 @@ Further analysis could be done using the 311 dataset. Using the 311 data from pr
 Since most requests have latitude and longitude coordinates it could be interesting to plot each case request on a map to see if there are clusters of requests in certain locations.  
 
 Next steps could include gathering demographic data to overlay on top of the 311 dataset for further analysis. Another possible next step would be to build a model to predict how long a request could take given the request reason, subject, location, source, etc. 
+
+Click [here](https://drive.google.com/drive/u/2/folders/1R5H3c4R_WYmPp5c7MdhYFVd79H-5WXfA) to download this Jupyter Notebook (make sure you are signed in with your BU email)!
